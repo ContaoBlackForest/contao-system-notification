@@ -1,0 +1,14 @@
+<?xml version="1.0" ?><xliff version="1.1">
+  <file datatype="php" original="system/modules/system-notification/languages/en/modules.php" source-language="en" target-language="de">
+    <body>
+      <trans-unit id="MOD.system_notification.0">
+        <source>System notification</source>
+        <target>System Benachrichtigung</target>
+      </trans-unit>
+      <trans-unit id="MOD.system_notification.1">
+        <source>Manage system notification</source>
+        <target>System Benachrichtigung verwalten</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -45,12 +45,22 @@
     "autoload": {
         "psr-4": {
             "ContaoBlackForest\\SystemNotification\\": ""
-        }
+        },
+        "classmap": [
+            "Resources/contao"
+        ],
+        "exclude-from-classmap": [
+            "Resources/contao/config",
+            "Resources/contao/dca",
+            "Resources/contao/languages",
+            "Resources/contao/templates"
+        ]
     },
     "extra": {
         "contao": {
             "sources": {
-                "Resources/contao": "system/modules/system-notification"
+                "Resources/contao": "system/modules/system-notification",
+                "Resources/contao-assets": "assets/system-notification"
             }
         },
         "branch-alias": {
