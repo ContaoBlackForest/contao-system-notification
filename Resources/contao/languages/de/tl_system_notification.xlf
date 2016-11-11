@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<xliff version="1.1">
+    <file datatype="php" original="system/modules/system-notification/languages/en/tl_system_notification.php" source-language="en" target-language="de">
+        <body>
+            <trans-unit id="tl_system_notification.title_legend">
+                <source>Title</source>
+                <target>Titel</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.title.0">
+                <source>Title</source>
+                <target>Titel</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.title.1">
+                <source>The title for this configuration.</source>
+                <target>Der Titel dieser Konfiguration.</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.config_legend">
+                <source>Configuration</source>
+                <target>Konfiguration</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.alert.0">
+                <source>Alert</source>
+                <target>Warnung</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.alert.1">
+                <source>The alert type.</source>
+                <target>Der Warnungstyp.</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.fatalError">
+                <source>Fatal error</source>
+                <target>Schwerwiegender Fehler (Fatal error)</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.service.0">
+                <source>Notification service</source>
+                <target>Benachrichtigungs Dienst</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.service.1">
+                <source>Select the notification service.</source>
+                <target>Auswahl des Benachrichtigungs Dienstes.</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.messageHtml.0">
+                <source>Html e-mail message</source>
+                <target>Html E-Mail Benachrichtigung</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.messageHtml.1">
+                <source>The notification that will be sent by E-Mail. You can use simple tokens and the insert tags.</source>
+                <target>Die Benachrichtung der per E-Mail versendet wird. Es können die Simple Tokens und die Insert Tags benutzt werden.</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.messageText.0">
+                <source>Text e-mail message</source>
+                <target>Text E-Mail Benachrichtigung</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.messageText.1">
+                <source>The notification that will be sent by E-Mail. You can use simple tokens and the insert tags.</source>
+                <target>Die Benachrichtung der per E-Mail versendet wird. Es können die Simple Tokens und die Insert Tags benutzt werden.</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.standard">
+                <source>Standard</source>
+                <target>Standart</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.mailHtml">
+                <source>Html e-mail notification</source>
+                <target>Html E-Mail Benachrichtigung</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.mailText">
+                <source>Plain text e-mail notification</source>
+                <target>Text E-Mail Benachrichtigung</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.user.0">
+                <source>User</source>
+                <target>Benutzer</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.user.1">
+                <source>The user who becomes the notification type.</source>
+                <target>Der Benutzer der die Benachrichtung erhalten soll.</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.publish_legend">
+                <source>Active</source>
+                <target>Aktiv</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.published.0">
+                <source>Active</source>
+                <target>Aktiv</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.published.1">
+                <source>This configuration state of actived/deactivated.</source>
+                <target>Diese Konfiguration aktivieren/deaktivieren.</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.start.0">
+                <source>Start</source>
+                <target>Beginn</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.start.1">
+                <source>The beginning date for this configuration.</source>
+                <target>Das Start Datum für diese Konfiguration.</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.stop.0">
+                <source>Stop</source>
+                <target>Ende</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.stop.1">
+                <source>The ending date for this configuration.</source>
+                <target>Das Stop Datum für diese Konfiguration.</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.new.0">
+                <source>New configuration</source>
+                <target>Neue Konfiguration</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.new.1">
+                <source>Add a new configuration.</source>
+                <target>Eine neue Konfiguration erstellen.</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.edit.0">
+                <source>Notification</source>
+                <target>Benachrichtigungen</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.edit.1">
+                <source>Show the notification for configuration with ID %s.</source>
+                <target>Die Benachrichtungen der Konfigration mit der ID %s anzeigen.</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.editHeader.0">
+                <source>Edit configuration</source>
+                <target>Konfiguration bearbeiten</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.editHeader.1">
+                <source>Edit configuration with ID %s.</source>
+                <target>Die Konfiguration mit der ID %s bearbeiten.</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.copy.0">
+                <source>Copy configuration</source>
+                <target>Konfiguration kopieren</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.copy.1">
+                <source>Copy configuration with ID %s.</source>
+                <target>Die Konfiguration mit der ID %s kopieren.</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.delete.0">
+                <source>Delete configuration</source>
+                <target>Konfiguration löschen</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.delete.1">
+                <source>Copy configuration with ID %s.</source>
+                <target>Die Konfiguration mit der ID %s löschen.</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.toggle.0">
+                <source>Visibility configuration</source>
+                <target>Konfiguration Aktivität</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.toggle.1">
+                <source>Visibility of configuration with ID %s.</source>
+                <target>Die Sichtbarkeit der Konfiguration mit der ID %s umschalten.</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.show.0">
+                <source>Information configuration</source>
+                <target>Konfiguration Informationen</target>
+            </trans-unit>
+            <trans-unit id="tl_system_notification.show.1">
+                <source>Show information of configuration with ID %s.</source>
+                <target>Die Informationen der Konfiguration mit der ID %s anzeigen.</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

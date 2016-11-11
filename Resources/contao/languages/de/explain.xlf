@@ -1,0 +1,90 @@
+<?xml version="1.0" ?><xliff version="1.1">
+  <file datatype="php" original="system/modules/system-notification/languages/en/modules.php" source-language="en" target-language="de">
+    <body>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.0.0">
+        <source>Simple Tokens:</source>
+        <target>Simple Tokens:</target>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.1.0">
+        <source>##error_html##</source>
+        <target>##error_html##</target>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.1.1">
+        <source>The error message in html string.</source>
+        <target>Die Fehlermeldung als HTML ausgeben.</target>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.2.0">
+        <source>##error_message##</source>
+        <target>##error_message##</target>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.2.1">
+        <source>The error message.</source>
+        <target>Die Fehlermeldung.</target>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.3.0">
+        <source>##error_file##</source>
+        <target>##error_file##</target>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.3.1">
+        <source>The error file.</source>
+        <target>Die Fehlerdatei.</target>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.4.0">
+        <source>##error_line##</source>
+        <target>##error_line##</target>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.4.1">
+        <source>The error line in file.</source>
+        <target>Die Fehlerzeile in der Fehlerdatei.</target>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.5.0">
+        <source>##error_type##</source>
+        <target>##error_type##</target>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.5.1">
+        <source>The error type.</source>
+        <target>Die Fehlerart.</target>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.6.0">
+        <source>##notification_id##</source>
+        <target>##notification_id##</target>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.6.1">
+        <source>The system notification id.</source>
+        <target>Die System Benachrichtungs id.</target>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.7.0">
+        <source>##system_notification_title##</source>
+        <target>##system_notification_title##</target>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.7.1">
+        <source>The system notification title.</source>
+        <target>Der System Benachrichtungs Titel.</target>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.7.0">
+        <source>##system_notification_service##</source>
+        <target>##system_notification_service##</target>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.7.1">
+        <source>The system notification service.</source>
+        <target>Der System Benachrichtungs Dienst.</target>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.8.0">
+        <source>##system_notification_alert_type##</source>
+        <target>##system_notification_alert_type##</target>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.8.1">
+        <source>The system notification alert type.</source>
+        <target>Die System Benachrichtung Warnungsart.</target>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.9.0">
+        <source>##system_notification_backend_link##</source>
+        <target>##system_notification_backend_link##</target>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.9.1">
+        <source>The system notification backend link.</source>
+        <target>Der System Benachrichtung Backend Link.</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

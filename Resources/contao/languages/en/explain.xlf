@@ -1,0 +1,69 @@
+<?xml version="1.0" ?><xliff version="1.1">
+  <file datatype="php" original="system/modules/system-notification/languages/en/modules.php" source-language="en">
+    <body>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.0.0">
+        <source>Simple Tokens:</source>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.1.0">
+        <source>##error_html##</source>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.1.1">
+        <source>The error message in html string.</source>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.2.0">
+        <source>##error_message##</source>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.2.1">
+        <source>The error message.</source>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.3.0">
+        <source>##error_file##</source>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.3.1">
+        <source>The error file.</source>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.4.0">
+        <source>##error_line##</source>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.4.1">
+        <source>The error line in file.</source>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.5.0">
+        <source>##error_type##</source>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.5.1">
+        <source>The error type.</source>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.6.0">
+        <source>##notification_id##</source>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.6.1">
+        <source>The system notification id.</source>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.7.0">
+        <source>##system_notification_title##</source>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.7.1">
+        <source>The system notification title.</source>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.7.0">
+        <source>##system_notification_service##</source>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.7.1">
+        <source>The system notification service.</source>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.8.0">
+        <source>##system_notification_alert_type##</source>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.8.1">
+        <source>The system notification alert type.</source>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.9.0">
+        <source>##system_notification_backend_link##</source>
+      </trans-unit>
+      <trans-unit id="XPL.systemNotificationSimpleTokens.9.1">
+        <source>The system notification backend link.</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
